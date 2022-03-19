@@ -1,6 +1,6 @@
 ## About Me
 
-I am an incoming PhD student in sociology at Boston University. My research areas are economic sociology, work & organizations, and social psychology.
+I am an incoming PhD student in Sociology at Boston University. My research areas are economic sociology, work & organizations, and social psychology.
 
 
 ### Markdown
