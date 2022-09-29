@@ -2,9 +2,10 @@
 
 ## About Me
 
-I am an incoming PhD student in Sociology at Boston University. My research areas are economic sociology, work & organizations, and social psychology.
+I am a PhD student in Sociology at Boston University. My research areas are economic sociology, work & organizations, and social psychology.
 
 
 ### Research
-- Actors' Career Trajectories: Role Diversification Patterns and Relational Dynamics of TV-Acting Field in Turkey
+- Actors' Career Trajectories: Role Diversification Patterns and Relational Dynamics in TV-Acting Field in Turkey
 - Gendered Impacts of COVID-19 Pandemic in Turkey
+- An Examination of Political Leadership Patterns in Competitive Authoritarian Regimes
