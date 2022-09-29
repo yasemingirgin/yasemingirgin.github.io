@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/101941078/159130885-e126cf24-c9e7-4035-a07c-bd2ef118a248.jpg" width="300">
+
+<img src="https://user-images.githubusercontent.com/101941078/192922194-5a75ba70-42a1-4767-9948-b1908ff122dd.jpg" width="300">
 
 ## About Me
 
