@@ -6,8 +6,7 @@
 I am a PhD student in Sociology at Boston University. My research interests are economic sociology, organizations, culture, urban sociology, political sociology, and social psychology. 
 
 ### Dissertation Research
-What is investment? How do we people make investment decisions in creative industries? My work focuses on the micro, meso, and macro dynamics of investment within the film & TV industry, examining how individual actors, organizational structures, and broader economic and cultural forces shape investment decisions and outcomes. 
-
+What is investment? How do people make investment decisions in creative industries? Bridging the sociological scholarship on investment and cultural production, my work focuses on the micro, meso, and macro dynamics within the film & TV industry, examining how individual actors, organizational structures, and broader economic and cultural forces shape investment decisions and outcomes. 
 
 ### Publications
 Girgin, Yasemin, and Tuna Kuyucu. 2025. “My tears have dried from crying, I want to laugh now!”: Role Diversification Patterns and Occupational Inequalities in the TV-Acting Field in Turkey" The Sociological Quarterly (forthcoming). 
@@ -24,7 +23,6 @@ Mijs, Jonathan J. B., and Yasemin Girgin. 2024. “Review of ‘The Accidental E
 Teaching Fellow at Boston University 
 - Introduction to Sociology (Fall 2023, Spring 2024, Fall 2024)
 - Sociology of Gender (Summer 2023, Summer 2024)
-
   
 ### Research Experience	
 Research Assistant (June 2021– August 20222)
@@ -39,5 +37,5 @@ Research Assistant (July 2020 – February 2021)
 - June 2019, “Actors’ Career Trajectories”, 3rd National Congress of Relational Social Science, Koç University, Istanbul, Turkey (received Honorable Mention).
 
 ### Professional Service	
-Editorial Board Member (May 2023 - Present), Accounts (ASA Economic Sociology Section Newsletter).
+- May 2023 - Present, Editorial Board Member, ASA Economic Sociology Section Newsletter, ACCOUNTS.
 
