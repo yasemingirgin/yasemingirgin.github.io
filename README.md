@@ -34,9 +34,9 @@ Research Assistant (July 2020 – February 2021)
 - “The Effects of COVID-19 Uncertainty on Social, Economic, and Political Behavioral Patterns: Role of Risk Perception”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey). Supervisor: Arhan S. Ertan
 
 ### Conference Presentations
-June 2023, “Gendered Accumulation of Status in the Field of Acting”, 15th INAS Conference, Princeton University, NJ, USA
-February 2021, “Role Diversification Patterns and Relational Dynamics of the TV Acting Field in Turkey”, ISA IV. Forum of Sociology, Online Conference.
-June 2019, “Actors’ Career Trajectories”, 3rd National Congress of Relational Social Science, Koç University, Istanbul, Turkey (received Honorable Mention).
+- June 2023, “Gendered Accumulation of Status in the Field of Acting”, 15th INAS Conference, Princeton University, NJ, USA
+- February 2021, “Role Diversification Patterns and Relational Dynamics of the TV Acting Field in Turkey”, ISA IV. Forum of Sociology, Online Conference.
+- June 2019, “Actors’ Career Trajectories”, 3rd National Congress of Relational Social Science, Koç University, Istanbul, Turkey (received Honorable Mention).
 
 ### Professional Service	
 May 2023 - Present 
