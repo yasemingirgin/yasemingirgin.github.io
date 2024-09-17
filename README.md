@@ -6,7 +6,7 @@
 I am a PhD student in Sociology at Boston University. My research interests are economic sociology, organizations, culture, urban sociology, political sociology, and social psychology. 
 
 ### Dissertation Research
-What is investment? How do people make investment decisions in creative industries? Bridging the sociological scholarship on investment and cultural production, my work focuses on the micro, meso, and macro dynamics within the film & TV industry, examining how individual actors, organizational structures, and broader economic and cultural forces shape investment decisions and outcomes. 
+What is investment? How do people make investment decisions in creative industries? Bridging the sociological scholarship on investment and cultural production, my work focuses on the micro, meso, and macro level dynamics within the film & TV industry, examining how individual actors, organizational structures, and broader economic and cultural forces shape investment decisions and outcomes. 
 
 ### Publications
 Girgin, Yasemin, and Tuna Kuyucu. 2025. “My tears have dried from crying, I want to laugh now!”: Role Diversification Patterns and Occupational Inequalities in the TV-Acting Field in Turkey" The Sociological Quarterly (forthcoming). 
