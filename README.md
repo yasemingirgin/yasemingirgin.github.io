@@ -27,14 +27,11 @@ Teaching Fellow at Boston University
 
   
 ### Research Experience	
-June 2021– August 20222 	
-Research Assistant 
-“Digital Public Diplomacy of Terrorist Organizations: Cases of Syra & Iraq”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey).
-Supervisor: Akın Ünver
-July 2020 – February 2021
-Research Assistant
-“The Effects of COVID-19 Uncertainty on Social, Economic, and Political Behavioral Patterns: Role of Risk Perception”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey).
-Supervisor: Arhan S. Ertan
+Research Assistant (June 2021– August 20222)
+- “Digital Public Diplomacy of Terrorist Organizations: Cases of Syra & Iraq”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey).  Supervisor: Akın Ünver
+  
+Research Assistant (July 2020 – February 2021)
+- “The Effects of COVID-19 Uncertainty on Social, Economic, and Political Behavioral Patterns: Role of Risk Perception”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey). Supervisor: Arhan S. Ertan
 
 ### Conference Presentations
 June 2023, “Gendered Accumulation of Status in the Field of Acting”, 15th INAS Conference, Princeton University, NJ, USA
