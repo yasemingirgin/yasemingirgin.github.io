@@ -1,37 +1,3 @@
 theme: minimal-mistakes-jekyll
 title: Yasemin Girgin
 description: PhD student at Boston University
-
-header_pages:
-  - about.md
-  - research.md
-  - publications.md
-  - cv.md
-  ---
-layout: single
-title: "About Me"
----
-
-## About Me
-A short introduction...
----
-layout: single
-title: "Research"
----
-
-## Research
-Description
-
----
-layout: single
-title: "Publications"
----
-## Publications
--
--
--
----
-layout: single
-title: "CV"
-
-## Curriculum Vitae
