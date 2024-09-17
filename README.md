@@ -39,6 +39,5 @@ Research Assistant (July 2020 – February 2021)
 - June 2019, “Actors’ Career Trajectories”, 3rd National Congress of Relational Social Science, Koç University, Istanbul, Turkey (received Honorable Mention).
 
 ### Professional Service	
-May 2023 - Present 
-Editorial Board Member, Accounts (ASA Economic Sociology Section Newsletter) 
+Editorial Board Member (May 2023 - Present), Accounts (ASA Economic Sociology Section Newsletter).
 
