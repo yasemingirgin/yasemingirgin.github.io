@@ -26,7 +26,7 @@ Teaching Fellow at Boston University
   
 ### Research Experience	
 Research Assistant (June 2021– August 20222)
-- “Digital Public Diplomacy of Terrorist Organizations: Cases of Syra & Iraq”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey).  Supervisor: Akın Ünver
+- “Digital Public Diplomacy of Terrorist Organizations: Cases of Syria & Iraq”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey).  Supervisor: Akın Ünver
   
 Research Assistant (July 2020 – February 2021)
 - “The Effects of COVID-19 Uncertainty on Social, Economic, and Political Behavioral Patterns: Role of Risk Perception”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey). Supervisor: Arhan S. Ertan
