@@ -15,10 +15,10 @@ Girgin, Yasemin, and Tuna Kuyucu. 2025 “My tears have dried from crying, I wan
 Mijs, Jonathan J. B., and Yasemin Girgin. 2024. “Review of ‘The Accidental Equalizer: How Luck Determines Pay After College.’” Social Forces. doi: 10.1093/sf/soae124.
 
 ### Works in Progress
-Gentrification as a Political Project
-Echoes of Glory: A Comparative Analysis of Nationalistic Rhetoric in Erdoğan, Putin, and Trump’s Speeches (with Taylor Beauvais and Ekaterian Novozhilova)
-Nature as the Enchained Other: (Re)imagining the Nation through Landscape Aesthetics
-Natural Disasters and the Support for Authoritarian Leaders
+- Gentrification as a Political Project
+- Echoes of Glory: A Comparative Analysis of Nationalistic Rhetoric in Erdoğan, Putin, and Trump’s Speeches (with Taylor Beauvais and Ekaterian Novozhilova)
+- Nature as the Enchained Other: (Re)imagining the Nation through Landscape Aesthetics
+- Natural Disasters and the Support for Authoritarian Leaders
 
 ### Teaching Experience
 Teaching Fellow at Boston University 
