@@ -3,10 +3,41 @@
 
 ## About Me
 
-I am a PhD student in Sociology at Boston University. My research areas are economic sociology, work & organizations, and social psychology.
+I am a PhD student in Sociology at Boston University. My research interests are economic sociology, organizations, culture, urban sociology, political sociology, and social psychology. 
+
+### Dissertation Research
+What is investment? How do we make investment decisions? My work focuses on the micro, meso, and macro dynamics of investment within creative industries, examining how individual actors, organizational structures, and broader economic and cultural forces shape investment decisions and outcomes. I employ a mixed-method approach, integrating qualitative and quantitative data to provide a holistic understanding of the processes at play. 
 
 
-### Research
-- Actors' Career Trajectories: Role Diversification Patterns and Relational Dynamics in TV-Acting Field in Turkey
-- Gendered Impacts of COVID-19 Pandemic in Turkey
-- An Examination of Political Leadership Patterns in Competitive Authoritarian Regimes
+### Other Research
+
+
+### Publications
+Girgin, Yasemin, and Tuna Kuyucu. 2025 “My tears have dried from crying, I want to laugh now!”: Role Diversification Patterns and Occupational Inequalities in the TV-Acting Field in Turkey" Sociological Quarterly (in press). 
+Mijs, Jonathan J. B., and Yasemin Girgin. 2024. “Review of ‘The Accidental Equalizer: How Luck Determines Pay After College.’” Social Forces. doi: 10.1093/sf/soae124.
+
+### Teaching Experience
+Teaching Fellow at Boston University 
+Introduction to Sociology (Fall 2023, Spring 2024, Fall 2024)
+Sociology of Gender (Summer 2023, Summer 2024)
+
+  
+### Research Experience	
+June 2021– August 20222 	
+Research Assistant 
+“Digital Public Diplomacy of Terrorist Organizations: Cases of Syra & Iraq”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey).
+Supervisor: Akın Ünver
+July 2020 – February 2021
+Research Assistant
+“The Effects of COVID-19 Uncertainty on Social, Economic, and Political Behavioral Patterns: Role of Risk Perception”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey).
+Supervisor: Arhan S. Ertan
+
+### Conference Presentations
+June 2023, “Gendered Accumulation of Status in the Field of Acting”, 15th INAS Conference, Princeton University, NJ, USA
+February 2021, “Role Diversification Patterns and Relational Dynamics of the TV Acting Field in Turkey”, ISA IV. Forum of Sociology, Online Conference.
+June 2019, “Actors’ Career Trajectories”, 3rd National Congress of Relational Social Science, Koç University, Istanbul, Turkey (received Honorable Mention).
+
+### Professional Service	
+May 2023 - Present 
+Editorial Board Member, Accounts (ASA Economic Sociology Section Newsletter) 
+
