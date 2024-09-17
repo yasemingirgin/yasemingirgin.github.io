@@ -12,7 +12,7 @@ What is investment? How do we make investment decisions? My work focuses on the 
 ### Publications
 Girgin, Yasemin, and Tuna Kuyucu. 2025 “My tears have dried from crying, I want to laugh now!”: Role Diversification Patterns and Occupational Inequalities in the TV-Acting Field in Turkey" Sociological Quarterly (in press). 
 
-Mijs, Jonathan J. B., and Yasemin Girgin. 2024. “Review of ‘The Accidental Equalizer: How Luck Determines Pay After College.’” Social Forces. doi: 10.1093/sf/soae124.
+Mijs, Jonathan J. B., and Yasemin Girgin. 2024. “Review of ‘The Accidental Equalizer: How Luck Determines Pay After College.’” Social Forces.
 
 ### Works in Progress
 - Gentrification as a Political Project
