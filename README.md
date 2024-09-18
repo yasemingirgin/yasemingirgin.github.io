@@ -25,7 +25,7 @@ Teaching Fellow at Boston University
 - Sociology of Gender (Summer 2023, Summer 2024)
   
 ### Research Experience	
-Research Assistant (June 2021– August 20222)
+Research Assistant (June 2021– August 2022)
 - “Digital Public Diplomacy of Terrorist Organizations: Cases of Syria & Iraq”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey).  Supervisor: Akın Ünver
   
 Research Assistant (July 2020 – February 2021)
