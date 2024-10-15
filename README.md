@@ -15,6 +15,7 @@ Mijs, Jonathan J. B., and Yasemin Girgin. 2024. “Review of ‘The Accidental E
 
 ### Works in Progress
 - Gentrification as a Political Project
+- The Evolving Landscape of Civic Engagement in Turkey
 - Echoes of Glory: A Comparative Analysis of Nationalistic Rhetoric in Erdoğan, Putin, and Trump’s Speeches (with Taylor Beauvais and Ekaterina Novozhilova)
 - Nature as the Enchained Other: (Re)imagining the Nation through Landscape Aesthetics
 - Natural Disasters and the Support for Authoritarian Leaders
