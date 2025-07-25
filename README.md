@@ -3,10 +3,12 @@
 
 ### About Me
 
-I am a PhD student in Sociology at Boston University. My research interests are economic sociology, organizations, culture, urban sociology, political sociology, and social psychology. 
+I am a PhD candidate in Sociology at Boston University. My research areas are economic sociology, organizations, culture, urban sociology, political sociology, and social psychology. 
 
 ### Dissertation Research
-How do people make investment decisions in creative industries? Bridging the sociological scholarship on investment and cultural production, my work focuses on the micro, meso, and macro-level dynamics within the film & TV industry, examining how individual actors, organizational structures, and broader economic and cultural forces shape investment decisions and outcomes. 
+How do competitors make investment decisions in creative industries? My dissertation examines the micro-, meso-, and macro-level dynamics of the film and television industry, analyzing how culture, identity, and market structures shape investment strategies and their outcomes. I investigate how individual actors, organizational logics, and broader institutional forces interact in a field where symbolic value and market competition are deeply intertwined.
+
+Committee: Jonathan Mijs (Chair), Alya Guseva, Neha Gondal, Ezra Zuckerman
 
 ### Publications
 Girgin, Yasemin, and Tuna Kuyucu. 2024. " “My tears have dried from crying, I want to laugh now!”: Role Diversification Patterns and Gendered Accumulation of Status in the TV-Acting Field in Turkey" The Sociological Quarterly. 
@@ -14,9 +16,8 @@ Girgin, Yasemin, and Tuna Kuyucu. 2024. " “My tears have dried from crying, I 
 Mijs, Jonathan J. B., and Yasemin Girgin. 2024. “Review of ‘The Accidental Equalizer: How Luck Determines Pay After College.’” Social Forces.
 
 ### Works in Progress
-- Gentrification as a Political Project
-- Echoes of Glory: A Comparative Analysis of Nationalistic Rhetoric in Erdoğan, Putin, and Trump’s Speeches (with Taylor Beauvais and Ekaterina Novozhilova)
-- Natural Disasters and the Support for Authoritarian Leaders
+- Symbolic Annexations: Politics of Gentrification and Cultural Contestation in Istanbul (Under Review)
+- Attention Capital as Legitimacy Broker (in preparation)
 
 ### Teaching Experience
 Teaching Fellow at Boston University 
@@ -24,6 +25,9 @@ Teaching Fellow at Boston University
 - Sociology of Gender (Summer 2023, Summer 2024)
   
 ### Research Experience	
+Research Assistant (May 2025 - Present)
+- Pricing and Valuation in Comic Book Markets. Supervisor: Joseph Harris
+
 Research Assistant (June 2021– August 2022)
 - “Digital Public Diplomacy of Terrorist Organizations: Cases of Syria & Iraq”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey).  Supervisor: Akın Ünver
   
@@ -31,10 +35,13 @@ Research Assistant (July 2020 – February 2021)
 - “The Effects of COVID-19 Uncertainty on Social, Economic, and Political Behavioral Patterns: Role of Risk Perception”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey). Supervisor: Arhan S. Ertan
 
 ### Conference Presentations
+- August 2025, "Attention as Legitimacy Broker" OOW Session on Future of Work, ASA Annual Meeting, Chicago, IL, USA
+- March 2025, "Echoes of Glory: How Culture Shapes Political Narratives of Nostalgia", ESS Annual Meeting, Boston, MA, USA
 - June 2023, “Gendered Accumulation of Status in the Field of Acting”, 15th INAS Conference, Princeton University, NJ, USA
 - February 2021, “Role Diversification Patterns and Relational Dynamics of the TV Acting Field in Turkey”, ISA IV. Forum of Sociology, Online Conference.
 - June 2019, “Actors’ Career Trajectories”, 3rd National Congress of Relational Social Science, Koç University, Istanbul, Turkey (received Honorable Mention).
 
 ### Professional Service	
-- May 2023 - Present, Editorial Board Member, ASA Economic Sociology Section Newsletter, ACCOUNTS.
+- July 2025 - Present, Graduate Student Representative-at-Large, Sociology Department, Boston University.
+- May  2023 - Present, Editorial Board Member, ASA Economic Sociology Section Newsletter, ACCOUNTS.
 
