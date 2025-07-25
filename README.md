@@ -35,7 +35,7 @@ Research Assistant (July 2020 – February 2021)
 - “The Effects of COVID-19 Uncertainty on Social, Economic, and Political Behavioral Patterns: Role of Risk Perception”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey). Supervisor: Arhan S. Ertan
 
 ### Conference Presentations
-- August 2025, "Attention as Legitimacy Broker" OOW Session on Future of Work, ASA Annual Meeting, Chicago, IL, USA
+- August 2025, "Attention as Legitimacy Broker", OOW Session on Future of Work, ASA Annual Meeting, Chicago, IL, USA
 - March 2025, "Echoes of Glory: How Culture Shapes Political Narratives of Nostalgia", ESS Annual Meeting, Boston, MA, USA
 - June 2023, “Gendered Accumulation of Status in the Field of Acting”, 15th INAS Conference, Princeton University, NJ, USA
 - February 2021, “Role Diversification Patterns and Relational Dynamics of the TV Acting Field in Turkey”, ISA IV. Forum of Sociology, Online Conference.
