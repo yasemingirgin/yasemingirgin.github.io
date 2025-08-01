@@ -6,7 +6,7 @@
 I am a PhD candidate in Sociology at Boston University. My research areas are economic sociology, organizations, culture, urban sociology, political sociology, and social psychology. 
 
 ### Dissertation Research
-How do competitors make investment decisions in creative industries? My dissertation examines the micro-, meso-, and macro-level dynamics of the film and television industry, analyzing how culture, identity, and market structures shape investment strategies and their outcomes. I investigate how individual actors, organizational logics, and broader institutional forces interact in a field where symbolic value and market competition are deeply intertwined.
+How does identity shape market competition in creative industries? My dissertation analyzes the film and television industry in Turkey across micro, meso, and macro levels, examining how culture, identity, and market structures influence investment strategies and outcomes in a field where symbolic value and competition intersect.
 
 Committee: Jonathan Mijs (Chair), Alya Guseva, Neha Gondal, Ezra Zuckerman
 
@@ -17,20 +17,19 @@ Mijs, Jonathan J. B., and Yasemin Girgin. 2024. “Review of ‘The Accidental E
 
 ### Works in Progress
 - Symbolic Annexations: Politics of Gentrification and Cultural Contestation in Istanbul (Under Review)
-- Attention Capital as Legitimacy Broker (in preparation)
+- Attention Capital as Legitimacy Broker (In preparation)
 
 ### Teaching Experience
 Teaching Fellow at Boston University 
+- Advanced Research Practicum (Spring 2025)
 - Introduction to Sociology (Fall 2023, Spring 2024, Fall 2024)
 - Sociology of Gender (Summer 2023, Summer 2024)
   
 ### Research Experience	
 Research Assistant (May 2025 - Present)
 - Pricing and Valuation in Comic Book Markets. Supervisor: Joseph Harris
-
 Research Assistant (June 2021– August 2022)
-- “Digital Public Diplomacy of Terrorist Organizations: Cases of Syria & Iraq”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey).  Supervisor: Akın Ünver
-  
+- “Digital Public Diplomacy of Terrorist Organizations: Cases of Syria & Iraq”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey).  Supervisor: Akın Ünver 
 Research Assistant (July 2020 – February 2021)
 - “The Effects of COVID-19 Uncertainty on Social, Economic, and Political Behavioral Patterns: Role of Risk Perception”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey). Supervisor: Arhan S. Ertan
 
