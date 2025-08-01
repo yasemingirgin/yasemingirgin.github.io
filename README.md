@@ -26,19 +26,17 @@ Teaching Fellow at Boston University
 - Sociology of Gender (Summer 2023, Summer 2024)
   
 ### Research Experience	
-Research Assistant (May 2025 - Present)
-- Pricing and Valuation in Comic Book Markets. Supervisor: Joseph Harris
-Research Assistant (June 2021– August 2022)
-- “Digital Public Diplomacy of Terrorist Organizations: Cases of Syria & Iraq”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey).  Supervisor: Akın Ünver 
-Research Assistant (July 2020 – February 2021)
-- “The Effects of COVID-19 Uncertainty on Social, Economic, and Political Behavioral Patterns: Role of Risk Perception”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey). Supervisor: Arhan S. Ertan
+Research Assistant 
+- Pricing and Valuation in Comic Book Markets. Supervisor: Joseph Harris (May 2025 - Present)
+- “Digital Public Diplomacy of Terrorist Organizations: Cases of Syria & Iraq”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey).  Supervisor: Akın Ünver (June 2021– August 2022)
+- “The Effects of COVID-19 Uncertainty on Social, Economic, and Political Behavioral Patterns: Role of Risk Perception”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey). Supervisor: Arhan S. Ertan (July 2020 – February 2021)
 
 ### Conference Presentations
 - August 2025, "Attention as Legitimacy Broker", OOW Session on Future of Work, ASA Annual Meeting, Chicago, IL, USA
 - March 2025, "Echoes of Glory: How Culture Shapes Political Narratives of Nostalgia", ESS Annual Meeting, Boston, MA, USA
 - June 2023, “Gendered Accumulation of Status in the Field of Acting”, 15th INAS Conference, Princeton University, NJ, USA
 - February 2021, “Role Diversification Patterns and Relational Dynamics of the TV Acting Field in Turkey”, ISA IV. Forum of Sociology, Online Conference.
-- June 2019, “Actors’ Career Trajectories”, 3rd National Congress of Relational Social Science, Koç University, Istanbul, Turkey (received Honorable Mention).
+- June 2019, “Actors’ Career Trajectories”, 3rd National Congress of Relational Social Science, Koç University, Istanbul, Turkey.
 
 ### Professional Service	
 - July 2025 - Present, Graduate Student Representative-at-Large, Sociology Department, Boston University.
