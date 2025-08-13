@@ -21,6 +21,7 @@ Mijs, Jonathan J. B., and Yasemin Girgin. 2024. “Review of ‘The Accidental E
 
 ### Teaching Experience
 Teaching Fellow at Boston University 
+- Sexuality and Social Life (Fall 2025)
 - Advanced Research Practicum (Spring 2025)
 - Introduction to Sociology (Fall 2023, Spring 2024, Fall 2024)
 - Sociology of Gender (Summer 2023, Summer 2024)
