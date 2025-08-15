@@ -39,6 +39,6 @@ Research Assistant
 - June 2019, “Actors’ Career Trajectories”, 3rd National Congress of Relational Social Science, Koç University, Istanbul, Turkey.
 
 ### Professional Service	
-- July 2025 - Present, Graduate Student Representative-at-Large, Sociology Department, Boston University.
-- May  2023 - Present, Editorial Board Member, ASA Economic Sociology Section Newsletter, ACCOUNTS.
-
+- July   2025 - Present, Graduate Student Representative-at-Large, Sociology Department, Boston University.
+- May    2023 - Present, Editorial Board Member, ASA Economic Sociology Section Newsletter, ACCOUNTS.
+- Sep    2024 - 2025, Membership Committee Member, ASA Social Psychology Section.  
