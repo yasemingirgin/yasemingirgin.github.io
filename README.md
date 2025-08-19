@@ -3,7 +3,7 @@
 
 ### About Me
 
-I am a PhD candidate in Sociology at Boston University. My research areas are economic sociology, organizations, culture, urban sociology, political sociology, and social psychology. 
+I am a PhD candidate in Sociology at Boston University. My research areas are economic sociology, organizations, culture, political sociology, and social psychology. 
 
 ### Dissertation Research
 How does identity shape market competition in creative industries? My dissertation analyzes the film and television industry in Turkey across micro, meso, and macro levels, examining how culture, identity, and market structures influence investment strategies and outcomes in a field where symbolic value and competition intersect.
@@ -16,13 +16,12 @@ Girgin, Yasemin, and Tuna Kuyucu. 2024. " “My tears have dried from crying, I 
 Mijs, Jonathan J. B., and Yasemin Girgin. 2024. “Review of ‘The Accidental Equalizer: How Luck Determines Pay After College.’” Social Forces.
 
 ### Works in Progress
-- Politics of Gentrification and Cultural Contestation in Istanbul (Under Review)
 - Attention Capital as Legitimacy Broker (In preparation)
 
 ### Teaching Experience
 Teaching Fellow at Boston University 
 - Advanced Research Practicum (Spring 2025)
-- Introduction to Sociology (Fall 2023, Spring 2024, Fall 2024)
+- Introduction to Sociology (Fall 2023, Spring 2024, Fall 2024, Fall 2025)
 - Sociology of Gender (Summer 2023, Summer 2024)
   
 ### Research Experience	
