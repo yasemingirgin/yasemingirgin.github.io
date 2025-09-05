@@ -6,7 +6,7 @@
 I am a PhD candidate in Sociology at Boston University. My research areas are economic sociology, organizations, culture, strategy, political sociology, and social psychology. 
 
 ### Dissertation Research
-How does identity shape market competition in creative industries? My dissertation analyzes the film and television industry in Turkey across micro, meso, and macro levels, examining how culture, identity, and market structures influence investment strategies and outcomes in a field where symbolic value and competition intersect.
+How does identity shape market competition in creative industries? My dissertation project focuses on the film and television industry in Turkey across micro, meso, and macro levels, examining how identity, culture, and market structures influence investment strategies and outcomes in a field where symbolic value and competition intersect.
 
 Committee: Jonathan Mijs (Chair), Alya Guseva, Neha Gondal, Ezra Zuckerman
 
