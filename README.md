@@ -3,7 +3,7 @@
 
 ### About Me
 
-I am a PhD candidate in Sociology at Boston University. My research areas are economic sociology, organizations, culture, strategy, political sociology, and social psychology. 
+I am a PhD candidate in Sociology at Boston University. My research spans economic sociology, organizations, culture, strategy, political sociology, and social psychology. 
 
 ### Dissertation Research
 How does identity shape market competition in creative industries? My dissertation project focuses on the film and television industry in Turkey across micro, meso, and macro levels, examining how identity, culture, and market structures influence investment strategies and outcomes in a field where symbolic value and competition intersect.
@@ -20,6 +20,7 @@ Mijs, Jonathan J. B., and Yasemin Girgin. 2024. “Review of ‘The Accidental E
 
 ### Teaching Experience
 Teaching Fellow at Boston University 
+- Sociological Methods (Spring 2026)
 - Advanced Research Practicum (Spring 2025)
 - Introduction to Sociology (Fall 2023, Spring 2024, Fall 2024, Fall 2025)
 - Sociology of Gender (Summer 2023, Summer 2024)
