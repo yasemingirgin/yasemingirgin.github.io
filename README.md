@@ -8,7 +8,7 @@ I am a PhD candidate in Sociology at Boston University. My research spans econom
 ### Dissertation Research
 How does identity shape market competition in creative industries? My dissertation project focuses on the film and television industry in Turkey across micro, meso, and macro levels, examining how identity, culture, and market structures influence investment strategies and outcomes in a field where symbolic value and competition intersect.
 
-Committee: Jonathan Mijs (Chair), Alya Guseva, Neha Gondal, Ezra Zuckerman
+Committee: Jonathan Mijs (Advisor), Alya Guseva, Neha Gondal, Ezra Zuckerman
 
 ### Publications
 Girgin, Yasemin, and Tuna Kuyucu. 2024. " “My tears have dried from crying, I want to laugh now!”: Role Diversification Patterns and Gendered Accumulation of Status in the TV-Acting Field in Turkey" The Sociological Quarterly. 
