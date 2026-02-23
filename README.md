@@ -16,7 +16,7 @@ Girgin, Yasemin, and Tuna Kuyucu. 2024. " “My tears have dried from crying, I 
 Mijs, Jonathan J. B., and Yasemin Girgin. 2024. “Review of ‘The Accidental Equalizer: How Luck Determines Pay After College.’” Social Forces.
 
 ### Works in Progress
-- Attention Capital as Legitimacy Broker (In preparation)
+- Rise of Attention Capital as A Legitimacy Broker (In preparation)
 
 ### Teaching Experience
 Teaching Fellow at Boston University 
