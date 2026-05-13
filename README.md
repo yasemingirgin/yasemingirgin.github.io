@@ -28,7 +28,7 @@ Teaching Fellow at Boston University
 ### Research Experience	
 Research Assistant 
 - Pricing and Valuation in Comic Book Markets. Supervisor: Joseph Harris (May 2025 - Present)
-- “Digital Public Diplomacy of Terrorist Organizations: Cases of Syria & Iraq”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey).  Supervisor: Akın Ünver (June 2021– August 2022)
+- “Digital Public Diplomacy of Armed Organizations: Cases of Syria & Iraq”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey).  Supervisor: Akın Ünver (June 2021– August 2022)
 - “The Effects of COVID-19 Uncertainty on Social, Economic, and Political Behavioral Patterns: Role of Risk Perception”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey). Supervisor: Arhan S. Ertan (July 2020 – February 2021)
 
 ### Conference Presentations
