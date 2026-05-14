@@ -3,7 +3,7 @@
 
 ### About Me
 
-I am a PhD candidate in Sociology at Boston University. My research spans economic sociology, organizations, culture, strategy, political sociology, and social psychology. 
+I am a PhD candidate in Sociology at Boston University. My research spans economic sociology, organizations, culture, strategy, and social psychology. 
 
 ### Dissertation Research
 How does identity shape market competition in creative industries? My dissertation investigates the Turkish film and television industry across micro, meso, and macro levels, tracing how identity, culture, and market structures interact to shape investment strategies and competitive outcomes in a field where symbolic value is actively negotiated.
