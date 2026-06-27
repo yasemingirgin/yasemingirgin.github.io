@@ -31,7 +31,8 @@ Research Assistant
 - “Digital Public Diplomacy of Armed Organizations: Cases of Syria & Iraq”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey).  Supervisor: Akın Ünver (June 2021– August 2022)
 - “The Effects of COVID-19 Uncertainty on Social, Economic, and Political Behavioral Patterns: Role of Risk Perception”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey). Supervisor: Arhan S. Ertan (July 2020 – February 2021)
 
-### Conference Presentations
+### Conference Presentations and Workshops
+- June 2026, Medici Summer School in Management Studies, Massachusetts Institute of Technology, Cambridge, MA, USA
 - August 2025, "Attention as Legitimacy Broker", OOW Session on Future of Work, ASA Annual Meeting, Chicago, IL, USA
 - March 2025, "Echoes of Glory: How Culture Shapes Political Narratives of Nostalgia", ESS Annual Meeting, Boston, MA, USA
 - June 2023, “Gendered Accumulation of Status in the Field of Acting”, 15th INAS Conference, Princeton University, NJ, USA
