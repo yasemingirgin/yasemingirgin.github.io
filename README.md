@@ -6,7 +6,7 @@
 I am a PhD candidate in Sociology at Boston University. My research spans economic sociology, organizations, culture, strategy, and social psychology. 
 
 ### Dissertation Research
-How does identity shape markets? My dissertation investigates the Turkish film and television industry, tracing how identity, culture, and market structures interact to shape coordination, investment strategies, and competitive outcomes in a field where symbolic value is actively negotiated.
+My research examines how identity shapes market competition. Using the Turkish film and television industry as an empirical setting, I investigate how identity influences market coordination, strategic behavior, and competitive outcomes under conditions of heightened visibility and audience scrutiny.
 
 Committee: Jonathan Mijs (Advisor), Alya Guseva, Neha Gondal, Ezra Zuckerman
 
