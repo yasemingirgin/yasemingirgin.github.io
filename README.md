@@ -27,7 +27,7 @@ Teaching Fellow at Boston University
   
 ### Research Experience	
 Research Assistant 
-- Pricing and Valuation in Comic Book Markets. Supervisor: Joseph Harris (May 2025 - Present)
+- Pricing and Valuation in Comic Book Markets. Supervisor: Joseph Harris (May 2025 - August 2026)
 - “Digital Public Diplomacy of Armed Organizations: Cases of Syria & Iraq”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey).  Supervisor: Akın Ünver (June 2021– August 2022)
 - “The Effects of COVID-19 Uncertainty on Social, Economic, and Political Behavioral Patterns: Role of Risk Perception”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey). Supervisor: Arhan S. Ertan (July 2020 – February 2021)
 
