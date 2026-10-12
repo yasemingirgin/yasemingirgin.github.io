@@ -6,9 +6,9 @@
 I am a PhD candidate in Sociology at Boston University. My research lies at the intersection of economic sociology, organizations, culture, strategy, and social psychology.
 
 ### Dissertation Research
-My dissertation examines how identity affects market competition. Drawing on the Turkish film and television industry as a distinctive empirical setting, I examine how visibility and audience dynamics shape coordination, strategic behavior, and market outcomes.
+How do identities become strategic resources and constraints in markets? Drawing on the Turkish film and television industry as a distinctive empirical setting, my dissertation examines how identity visibility and audience heterogeneity shape strategic behavior, market coordination, and competitive dynamics.
 
-Committee: Jonathan Mijs (Advisor), Alya Guseva, Neha Gondal, Ezra Zuckerman
+Committee: Jonathan Mijs (Chair), Alya Guseva, Neha Gondal, Ezra Zuckerman
 
 ### Publications
 Girgin, Yasemin, and Tuna Kuyucu. 2024. " “My tears have dried from crying, I want to laugh now!”: Role Diversification Patterns and Gendered Accumulation of Status in the TV-Acting Field in Turkey" The Sociological Quarterly. 
@@ -31,15 +31,17 @@ Research Assistant
 - “Digital Public Diplomacy of Armed Organizations: Cases of Syria & Iraq”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey).  Supervisor: Akın Ünver (June 2021– August 2022)
 - “The Effects of COVID-19 Uncertainty on Social, Economic, and Political Behavioral Patterns: Role of Risk Perception”, funded by TUBITAK (The Scientific and Technological Research Council of Turkey). Supervisor: Arhan S. Ertan (July 2020 – February 2021)
 
-### Conference Presentations and Workshops
+### Presentations and Workshops
 - June 2026, Medici Summer School in Management Studies, Massachusetts Institute of Technology, Cambridge, MA, USA
 - August 2025, "Attention as Legitimacy Broker", OOW Session on Future of Work, ASA Annual Meeting, Chicago, IL, USA
 - March 2025, "Echoes of Glory: How Culture Shapes Political Narratives of Nostalgia", ESS Annual Meeting, Boston, MA, USA
+- March 2025, "Politics of Gentrification", Urban Inequalities Workshop, Boston University, Boston, MA, USA
 - June 2023, “Gendered Accumulation of Status in the Field of Acting”, 15th INAS Conference, Princeton University, NJ, USA
-- February 2021, “Role Diversification Patterns and Relational Dynamics of the TV Acting Field in Turkey”, ISA IV. Forum of Sociology, Online Conference.
+- February 2021, “Role Diversification Patterns and Relational Dynamics of the TV Acting Field in Turkey”, ISA IV.Forum of Sociology, Online Conference.
 - June 2019, “Actors’ Career Trajectories”, 3rd National Congress of Relational Social Science, Koç University, Istanbul, Turkey.
 
 ### Professional Service	
-- July   2025 - Present, Graduate Student Representative-at-Large, Sociology Department, Boston University.
-- May    2023 - Present, Editorial Board Member, ASA Economic Sociology Section Newsletter, ACCOUNTS.
-- Sep    2024 - 2025, Membership Committee Member, ASA Social Psychology Section.  
+- 2026   Graduate Student Interviewer, Administrative Sciences Quarterly (ASQ) Blog.
+- 2025 - Present, Graduate Student Representative-at-Large, Sociology Department, Boston University.
+- 2023 - Present, Editorial Board Member, ASA Economic Sociology Section Newsletter, ACCOUNTS.
+- 2024 - 2025, Membership Committee Member, ASA Social Psychology Section.  
